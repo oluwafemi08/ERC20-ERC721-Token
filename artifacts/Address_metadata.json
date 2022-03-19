@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"BankableNFT_flat.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"BankableNFT_flat.sol": {
+			"keccak256": "0x39a33fcdb598ad9096b233c04bc6480b5d8602c9dc5aa6b09f39b6828950461d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f96560e09f09bff441afcb8136e7ec0aa0118d9a8dcf50fe411fdf2515bb2df8",
+				"dweb:/ipfs/QmdTewCANvKVMocuVPhnyQD4XHr1YWatpbd2y9pJjUenib"
+			]
+		}
+	},
+	"version": 1
+}
